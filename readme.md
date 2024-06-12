@@ -57,7 +57,7 @@
 
 <a name="about-the-project"></a>
 
-Karrelage est un MITM pour Dofus 2.XX en Python 3. C'est la mejora de [DofusHelper](https://github.com/JustNao/DofusHelper), avec une interface plus moderne et un système de module et de packet sniffing plus flexible. Il utilise [LaBot](https://github.com/louisabraham/LaBot) Para capturar los paquetes recibidos por el cliente. Un sistema de módulo permite crear más manipuladores en su recepción (ver más según los ejemplos). La interfaz utiliza Flask, con TailwdindCSS y Flowbite para el estilo.
+Karrelage est un MITM para Dofus 2.XX en Python 3. es la mejora de [DofusHelper](https://github.com/JustNao/DofusHelper), con una interfaz más moderna y un sistema de módulo y rastreo de paquetes más flexible. utiliza [LaBot](https://github.com/louisabraham/LaBot) Para capturar los paquetes recibidos por el cliente. Un sistema de módulo permite crear más manipuladores en su recepción (ver más según los ejemplos). La interfaz utiliza Flask, con TailwdindCSS y Flowbite para el estilo.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
